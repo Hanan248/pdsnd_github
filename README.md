@@ -5,10 +5,8 @@
 the github project
 
 ### Description
-Files of github project 
+Files of github project
 
 ### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+bikeshare files
+readme file
